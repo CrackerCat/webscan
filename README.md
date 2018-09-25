@@ -4,6 +4,19 @@
 
 本项目仅用于测试、学习使用，不得用于其他非法目的
 
+## 截图
+
+[image](https://github.com/ByHuaiNian/webscan/blob/master/1.png)
+
+[image](https://github.com/ByHuaiNian/webscan/blob/master/2.png)
+
+[image](https://github.com/ByHuaiNian/webscan/blob/master/3.png)
+
+[image](https://github.com/ByHuaiNian/webscan/blob/master/4.png)
+
+[image](https://github.com/ByHuaiNian/webscan/blob/master/5.png)
+
+
 ## 功能描述
 
 - 扫描端口
