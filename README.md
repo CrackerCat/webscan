@@ -6,15 +6,15 @@
 
 ## 截图
 
-[image](https://github.com/ByHuaiNian/webscan/blob/master/1.png)
+![image](https://github.com/ByHuaiNian/webscan/blob/master/1.png)
 
-[image](https://github.com/ByHuaiNian/webscan/blob/master/2.png)
+![image](https://github.com/ByHuaiNian/webscan/blob/master/2.png)
 
-[image](https://github.com/ByHuaiNian/webscan/blob/master/3.png)
+![image](https://github.com/ByHuaiNian/webscan/blob/master/3.png)
 
-[image](https://github.com/ByHuaiNian/webscan/blob/master/4.png)
+![image](https://github.com/ByHuaiNian/webscan/blob/master/4.png)
 
-[image](https://github.com/ByHuaiNian/webscan/blob/master/5.png)
+![image](https://github.com/ByHuaiNian/webscan/blob/master/5.png)
 
 
 ## 功能描述
