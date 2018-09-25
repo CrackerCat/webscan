@@ -1,9 +1,10 @@
-# WEBSCAN 1.0 基于python2.7.13+django+mysql编写 前端使用layui框架
+## WEBSCAN 1.0
+基于python2.7.13+django+mysql编写 前端使用layui框架
 一款常用的web扫描器,主要提供子域名扫描，端口扫描，目录扫描，插件扫描的项目功能。还可单独检测插件等
 
 本项目仅用于测试、学习使用，不得用于其他非法目的
 
-# 功能描述
+## 功能描述
 
 - 扫描端口
 扫描IP段时 需要加子网掩码 如192.168.1.0/24 扫描1-255
@@ -13,8 +14,6 @@
 
 - 插件使用
 可选择插件单个测试目标 
-
-# 插件调用使用 Pocsuite 框架 详细信息和POC编写规则请参考 https://github.com/knownsec/Pocsuite/
 
 - 添加项目
 可选择扫描子域名或批量扫描目标 同时可扫描常用端口和目录 相关配置可到config.py中修改 也可选择插件进行扫描
@@ -27,7 +26,10 @@
 
 * 任务调用使用celery+Redis
 
-# 参考项目(感谢大佬们的开源项目)
+## 插件编写
+插件调用使用 Pocsuite 框架 详细信息和POC编写规则请参考 https://github.com/knownsec/Pocsuite/
+
+## 参考项目(感谢大佬们的开源项目)
 - [Pocsuite](https://github.com/knownsec/Pocsuite)
 - [InsectsAwake](https://github.com/jeffzh3ng/InsectsAwake)
 - [w11scan](https://github.com/boy-hack/w11scan)
